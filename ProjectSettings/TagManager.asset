@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Floor
+    uniqueID: 1281920121
+    locked: 0
+  - name: Fg1
+    uniqueID: 368989805
+    locked: 0
+  - name: Player
+    uniqueID: 3051536405
+    locked: 0
+  - name: Fg2
+    uniqueID: 915786831
+    locked: 0
+  - name: Bg
+    uniqueID: 2414637517
+    locked: 0
