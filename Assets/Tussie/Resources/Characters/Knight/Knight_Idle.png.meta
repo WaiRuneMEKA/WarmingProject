@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 48d8a89a19b92ee4d92515d681c0d4b7
+guid: 6b86ef3d9e7d09646a01296c80e9b728
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,13 +123,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Knight_Atk_Two_0
+      name: Knight_Idle_0
       rect:
         serializedVersion: 2
-        x: 5
+        x: 0
         y: 0
-        width: 26
-        height: 25
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29612a9d4c7a2b8429dfb8c553000805
-      internalID: -1338484159
+      spriteID: fc40fc87483d9984798cf1b501fa1c29
+      internalID: 720365644
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Knight_Atk_Two_1
+      name: Knight_Idle_1
       rect:
         serializedVersion: 2
         x: 48
         y: 0
-        width: 33
-        height: 23
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f896efb700cf4a542b58abbdfe3465b9
-      internalID: 1934210238
+      spriteID: c1e20ecd0e3d32646a43358a9242a691
+      internalID: -1283764389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Knight_Atk_Two_2
+      name: Knight_Idle_2
       rect:
         serializedVersion: 2
-        x: 99
+        x: 96
         y: 0
-        width: 41
-        height: 26
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3018ec4b1d4e8c246b8044e08d884602
-      internalID: 30497392
+      spriteID: b9b6fac9f0fdec14c801dcbac3cfeab6
+      internalID: 1604882896
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Knight_Atk_Two_3
+      name: Knight_Idle_3
       rect:
         serializedVersion: 2
-        x: 151
+        x: 144
         y: 0
-        width: 37
-        height: 29
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,20 +200,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a0006e45db341344bf9a3c82a400f6f
-      internalID: 640128237
+      spriteID: 88a48819a71bbc04bbf5bea6cb66a042
+      internalID: 328455841
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Knight_Atk_Two_4
+      name: Knight_Idle_4
       rect:
         serializedVersion: 2
-        x: 200
+        x: 192
         y: 0
-        width: 36
-        height: 33
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6cb1c9a27ac2f1642a2bc21974c66fb6
-      internalID: 887180684
+      spriteID: ffa5e07b1e58b5842a916455f7346990
+      internalID: 659562071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Knight_Atk_Two_5
+      name: Knight_Idle_5
       rect:
         serializedVersion: 2
-        x: 247
+        x: 240
         y: 0
-        width: 37
-        height: 29
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,155 +242,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f384fbaa79c36d48a2e323daac6d35c
-      internalID: 355995285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Knight_Atk_Two_6
-      rect:
-        serializedVersion: 2
-        x: 295
-        y: 0
-        width: 32
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 536e70fec267fc546ac83e45e833d660
-      internalID: 1948922589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Knight_Atk_Two_7
-      rect:
-        serializedVersion: 2
-        x: 343
-        y: 0
-        width: 32
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 88eae224bdf59354c8e31e926da15c75
-      internalID: -60547447
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Knight_Atk_Two_8
-      rect:
-        serializedVersion: 2
-        x: 391
-        y: 0
-        width: 32
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f9c010efe5620504e868a9185efe00cf
-      internalID: -133155490
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Knight_Atk_Two_9
-      rect:
-        serializedVersion: 2
-        x: 439
-        y: 0
-        width: 26
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a56e1a9be3fce5b4987e923d44fac8b5
-      internalID: 2140134005
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Knight_Atk_Two_10
-      rect:
-        serializedVersion: 2
-        x: 492
-        y: 0
-        width: 13
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ab2ab7146ab0c34690a2ea18f5e8a86
-      internalID: 2049691734
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Knight_Atk_Two_11
-      rect:
-        serializedVersion: 2
-        x: 540
-        y: 0
-        width: 13
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a5a8b2ce069a0b24185ada4c96315a5c
-      internalID: 480789414
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Knight_Atk_Two_12
-      rect:
-        serializedVersion: 2
-        x: 588
-        y: 0
-        width: 13
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ed7dad764865c740922c8159d069612
-      internalID: 1447980983
+      spriteID: 7c160e065cede714d8b62aa1a154dab6
+      internalID: -1920576939
       vertices: []
       indices: 
       edges: []
@@ -406,19 +259,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Knight_Atk_Two_0: -1338484159
-      Knight_Atk_Two_1: 1934210238
-      Knight_Atk_Two_10: 2049691734
-      Knight_Atk_Two_11: 480789414
-      Knight_Atk_Two_12: 1447980983
-      Knight_Atk_Two_2: 30497392
-      Knight_Atk_Two_3: 640128237
-      Knight_Atk_Two_4: 887180684
-      Knight_Atk_Two_5: 355995285
-      Knight_Atk_Two_6: 1948922589
-      Knight_Atk_Two_7: -60547447
-      Knight_Atk_Two_8: -133155490
-      Knight_Atk_Two_9: 2140134005
+      Knight_Idle_0: 720365644
+      Knight_Idle_1: -1283764389
+      Knight_Idle_2: 1604882896
+      Knight_Idle_3: 328455841
+      Knight_Idle_4: 659562071
+      Knight_Idle_5: -1920576939
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
