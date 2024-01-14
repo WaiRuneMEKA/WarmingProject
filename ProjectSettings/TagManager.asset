@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - 
@@ -38,21 +38,30 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BgBackBack
+    uniqueID: 3774314921
+    locked: 0
+  - name: BgBack
+    uniqueID: 718603953
+    locked: 0
+  - name: Bg1
+    uniqueID: 3879567973
+    locked: 0
+  - name: Bg
+    uniqueID: 2414637517
+    locked: 0
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Floor
-    uniqueID: 1281920121
-    locked: 0
-  - name: Fg1
-    uniqueID: 368989805
     locked: 0
   - name: Player
     uniqueID: 3051536405
     locked: 0
-  - name: Fg2
+  - name: Fg
     uniqueID: 915786831
     locked: 0
-  - name: Bg
-    uniqueID: 2414637517
+  - name: FgFront
+    uniqueID: 368989805
+    locked: 0
+  - name: Floor
+    uniqueID: 1281920121
     locked: 0
