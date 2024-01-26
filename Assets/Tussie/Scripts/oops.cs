@@ -2,17 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class oops : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+[System.Serializable]
 
-    // Update is called once per frame
-    void Update()
+public class oops
+{
+    public int Heart;
+
+
+    public oops(int heart)
     {
-        
+        heart = Heart;
     }
 }
