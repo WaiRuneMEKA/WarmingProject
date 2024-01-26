@@ -137,7 +137,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
       propertyPath: numSec
-      value: 60
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
       propertyPath: StartVid
@@ -217,7 +217,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 448297704}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 78da7fe9589fee34d85c22eafa49821f, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 7c11597426893314fa82f0a77324fcd2, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}

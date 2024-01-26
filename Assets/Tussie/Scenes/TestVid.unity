@@ -278,16 +278,16 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 384765668}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 384765669}
+        m_TargetAssemblyTypeName: VideoController, Assembly-CSharp
+        m_MethodName: BtnChangeScene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: TestVid2
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &248207535
@@ -342,7 +342,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
       propertyPath: numSec
-      value: 60
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
       propertyPath: StartVid
@@ -409,11 +409,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
---- !u!1 &384765668 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 219452378633471165, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
+--- !u!114 &384765669 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
   m_PrefabInstance: {fileID: 384765667}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ec0cdd7381bb7a47b4a79f1fd67b631, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &458932556
 GameObject:
   m_ObjectHideFlags: 0
@@ -717,7 +723,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 717499534}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 384765669}
+        m_TargetAssemblyTypeName: VideoController, Assembly-CSharp
+        m_MethodName: BtnChangeScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: TestVid3
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &717499534
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -801,7 +819,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1093431338}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 78da7fe9589fee34d85c22eafa49821f, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 7c11597426893314fa82f0a77324fcd2, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
