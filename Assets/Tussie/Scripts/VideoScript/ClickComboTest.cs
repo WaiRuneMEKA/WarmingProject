@@ -9,17 +9,34 @@ public class ClickComboTest : MonoBehaviour
     public Slider slider;
     public GameObject Btn;
     public int comboNum;
+    bool isClick;
+
+    private void Update()
+    {
+        StartCoroutine(AreYouClicked());
+    }
 
     public void OnClickBtn()
     {
         comboNum++;
         slider.value = comboNum;
-        StartCoroutine(ClickTimer());
+        isClick = true;
+        StartCoroutine(ClickCountdown());
     }
 
-    IEnumerator ClickTimer()
+    IEnumerator AreYouClicked()
     {
         yield return new WaitForSecondsRealtime(3);
-        comboNum = 0;
+        isClick = false;
+    }
+
+    IEnumerator ClickCountdown()
+    {
+        yield return new WaitForSecondsRealtime(1);
+        
+        if (isClick)
+        {
+            comboNum--;
+        }
     }
 }
