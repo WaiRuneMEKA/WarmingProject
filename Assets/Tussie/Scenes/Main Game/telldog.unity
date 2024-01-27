@@ -807,7 +807,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: no!, I'm afraid
+  m_text: move on
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 99c5a61b14cc20a4d8c9f8aa13bd4452, type: 2}
   m_sharedMaterial: {fileID: -1417841886454318802, guid: 99c5a61b14cc20a4d8c9f8aa13bd4452, type: 2}
@@ -1054,7 +1054,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: homescr
+          m_StringArgument: zmoveon
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1140349824}
@@ -1117,7 +1117,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 808787845535971221, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_text
-      value: come on, I'll take it!
+      value: flirt Junpe to revenge!!!
       objectReference: {fileID: 0}
     - target: {fileID: 808787845535971221, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_fontSize
@@ -1181,7 +1181,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: homecom
+      value: zrevenge
       objectReference: {fileID: 0}
     - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
