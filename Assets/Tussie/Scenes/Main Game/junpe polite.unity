@@ -245,7 +245,7 @@ PrefabInstance:
       objectReference: {fileID: 1093431338}
     - target: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
       propertyPath: Btn.Array.size
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
       propertyPath: Btn.Array.data[0]
@@ -255,6 +255,10 @@ PrefabInstance:
       propertyPath: Btn.Array.data[1]
       value: 
       objectReference: {fileID: 2140813969}
+    - target: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
+      propertyPath: Btn.Array.data[2]
+      value: 
+      objectReference: {fileID: 1633458245}
     - target: {fileID: 8413362395771925686, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
       propertyPath: m_LocalPosition.x
       value: 808.37427

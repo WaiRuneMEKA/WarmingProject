@@ -27,6 +27,15 @@ EditorBuildSettings:
     path: Assets/Tussie/Scenes/Main Game/junpe.unity
     guid: 0e867cb99e2e86c40be9dc4f2f751e5c
   - enabled: 1
+    path: Assets/Tussie/Scenes/Main Game/junpe angry.unity
+    guid: ca909afd35a6bb442bf79743bc567a40
+  - enabled: 1
     path: Assets/Tussie/Scenes/Main Game/junpe polite.unity
     guid: c4231b5767a810548979317a526f7532
+  - enabled: 1
+    path: Assets/Tussie/Scenes/Main Game/junpefake.unity
+    guid: 38371791c0cb79845b91c3eea8fb70b6
+  - enabled: 1
+    path: Assets/Tussie/Scenes/Main Game/junpereal.unity
+    guid: 14ca0864ed2e5194696b609c095ddee3
   m_configObjects: {}
