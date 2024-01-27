@@ -250,11 +250,11 @@ PrefabInstance:
     - target: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
       propertyPath: Btn.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 471021564}
     - target: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
       propertyPath: Btn.Array.data[1]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1312403539}
     - target: {fileID: 8413362395771925686, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
       propertyPath: m_LocalPosition.x
       value: 808.37427
@@ -300,6 +300,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
+--- !u!114 &384765668 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
+  m_PrefabInstance: {fileID: 384765667}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ec0cdd7381bb7a47b4a79f1fd67b631, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &408801586
 GameObject:
   m_ObjectHideFlags: 0
@@ -722,10 +733,14 @@ PrefabInstance:
     - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
+      objectReference: {fileID: 384765668}
+    - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: BtnChangeScene
       objectReference: {fileID: 0}
     - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: homecom
+      value: telldog
       objectReference: {fileID: 0}
     - target: {fileID: 3743889469889517717, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_Pivot.x
@@ -819,6 +834,11 @@ PrefabInstance:
 --- !u!224 &471021563 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 3743889469889517717, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
+  m_PrefabInstance: {fileID: 471021562}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &471021564 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1822912555186359923, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
   m_PrefabInstance: {fileID: 471021562}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1093431338
@@ -972,7 +992,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 384765668}
         m_TargetAssemblyTypeName: VideoController, Assembly-CSharp
         m_MethodName: BtnChangeScene
         m_Mode: 5
@@ -981,7 +1001,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: homescr
+          m_StringArgument: telljun
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1312403542
