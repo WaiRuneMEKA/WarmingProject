@@ -745,7 +745,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: no!, I'm afraid
+  m_text: sneak Junpe's phone
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 99c5a61b14cc20a4d8c9f8aa13bd4452, type: 2}
   m_sharedMaterial: {fileID: -1417841886454318802, guid: 99c5a61b14cc20a4d8c9f8aa13bd4452, type: 2}
@@ -1043,7 +1043,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 808787845535971221, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_text
-      value: come on, I'll take it!
+      value: sneak Junpe's computer
       objectReference: {fileID: 0}
     - target: {fileID: 808787845535971221, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_fontSize
