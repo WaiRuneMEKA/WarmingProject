@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Tussie/Scenes/TestVid3.unity
     guid: 5e73bd622c308a74fb1215e04cf2d08b
+  - enabled: 1
+    path: Assets/Tussie/Scenes/Main Game/brokeup.unity
+    guid: f5b93e8685dffd246b057f2c3a97b574
+  - enabled: 1
+    path: Assets/Tussie/Scenes/Main Game/brokeup 1.unity
+    guid: 51fdfb68a84b5414188539ca87d88096
+  - enabled: 1
+    path: Assets/Tussie/Scenes/Main Game/brokeup 2.unity
+    guid: 110cf8f58bca88245a3009c51c369361
   m_configObjects: {}
