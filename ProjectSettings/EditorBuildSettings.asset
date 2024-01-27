@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Tussie/Scenes/Main Game/junpe.unity
     guid: 0e867cb99e2e86c40be9dc4f2f751e5c
+  - enabled: 1
+    path: Assets/Tussie/Scenes/Main Game/junpe polite.unity
+    guid: c4231b5767a810548979317a526f7532
   m_configObjects: {}
