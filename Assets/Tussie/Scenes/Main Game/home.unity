@@ -213,7 +213,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
       propertyPath: numSec
-      value: 8
+      value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
       propertyPath: IdleVid
@@ -577,7 +577,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1093431338}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: c8c82de52ef9a114fbad829721a83273, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 6a83a093f95557047b4ef3b282350026, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -807,7 +807,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: why he stand beside your girl!!!
+  m_text: no!, I'm afraid
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 99c5a61b14cc20a4d8c9f8aa13bd4452, type: 2}
   m_sharedMaterial: {fileID: -1417841886454318802, guid: 99c5a61b14cc20a4d8c9f8aa13bd4452, type: 2}
@@ -919,7 +919,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2081116174}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 9ef2deffc618da142a440d636853572b, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 6fd550412d974cb45b29058ad89cde37, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -1054,7 +1054,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: junpe angry
+          m_StringArgument: homescr
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1140349824}
@@ -1117,7 +1117,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 808787845535971221, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_text
-      value: ask him politely
+      value: come on, I'll take it!
       objectReference: {fileID: 0}
     - target: {fileID: 808787845535971221, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_fontSize
@@ -1181,7 +1181,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: junpe polite
+      value: homecom
       objectReference: {fileID: 0}
     - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
