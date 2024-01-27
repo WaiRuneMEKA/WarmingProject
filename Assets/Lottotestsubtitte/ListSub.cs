@@ -9,9 +9,15 @@ public class ListSub : MonoBehaviour
 
     public TMP_Text MainText;
     public float Maintext_Sec;
+    //int RoundMainText;
 
     public TMP_Text Subtext;
     public float Subtext_Sec;
+
+    //string writer;
+    //public float timeBtwChars = 0.1f;
+    //string leadingChar = "";
+
 
     // Start is called before the first frame update
     void Start()
@@ -30,7 +36,7 @@ public class ListSub : MonoBehaviour
 
             if (Maintext_Sec <= 0.0f)
             {
-                
+
                 MainText.text = "";
                 Maintext_Sec = 0;
             }
@@ -58,7 +64,7 @@ public class ListSub : MonoBehaviour
 
             print(i + "Main");
             if (subtitte[i].MainText == null || subtitte[i].Maintext_Sec == 0)
-             {
+            {
                 MainText.text = "";
                 Maintext_Sec = 0;
                 yield return new WaitForSeconds(Maintext_Sec);
@@ -66,10 +72,13 @@ public class ListSub : MonoBehaviour
             else
             {
                 MainText.text = subtitte[i].MainText;
+                //writer = MainText.text;
+                //TypeWriterTMP();
                 Maintext_Sec = subtitte[i].Maintext_Sec;
                 yield return new WaitForSeconds(Maintext_Sec);
+
             }
-            
+
 
             print("ทำงานต่อ");
 
@@ -77,13 +86,13 @@ public class ListSub : MonoBehaviour
 
         }
 
-        
+
 
     }
 
     IEnumerator WaitText2()
     {
-       
+
 
         for (int i = 0; i < subtitte.Length; i++)
         {
@@ -109,5 +118,31 @@ public class ListSub : MonoBehaviour
 
     }
 }
+
+//    IEnumerator TypeWriterTMP()
+//    {
+//        print("พิม" + RoundMainText);
+//        MainText.text = "";
+//        MainText.text = subtitte[RoundMainText].MainText;
+//        foreach (char c in writer)
+//        {
+//            if (MainText.text.Length > 0)
+//            {
+//                MainText.text = MainText.text.Substring(0, MainText.text.Length - leadingChar.Length);
+//            }
+//            MainText.text += c;
+//            MainText.text += leadingChar;
+//            yield return new WaitForSeconds(timeBtwChars);
+//        }
+
+//        if (leadingChar != "")
+//        {
+//            MainText.text = MainText.text.Substring(0, MainText.text.Length - leadingChar.Length);
+//        }
+
+//        yield return null;
+//    }
+//}
+
     
 

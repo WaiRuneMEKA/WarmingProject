@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60a66d8d1f0268643bac21619ddbfd19, type: 3}
   m_Name: Test3
   m_EditorClassIdentifier: 
-  MainText: zzzzzzzzzzzz
+  MainText: 'Lotto : buyyy'
   Maintext_Sec: 4
-  Subtext: hhhhhhhhhh
-  Subtext_Sec: 2
+  Maintext_Color: {r: 0, g: 0, b: 0, a: 1}
+  Subtext: 
+  Subtext_Sec: 4
+  Subtext_Color: {r: 0, g: 0, b: 0, a: 1}
