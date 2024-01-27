@@ -213,7 +213,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
       propertyPath: numSec
-      value: 24
+      value: 31
       objectReference: {fileID: 0}
     - target: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
       propertyPath: IdleVid
@@ -577,7 +577,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1093431338}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 6a83a093f95557047b4ef3b282350026, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 559e186f043016a4b939e2952ed339fe, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -919,7 +919,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2081116174}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 6fd550412d974cb45b29058ad89cde37, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: c8e5e6ebabf71f440a794ec85c093520, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
