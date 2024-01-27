@@ -9,8 +9,11 @@ public class VideoController : MonoBehaviour
 {
     public GameObject StartVid;
     public GameObject[] Btn;
-    public VideoPlayer videoPlayer;
-    public GameObject image;
+    public VideoPlayer MainPlayer;
+    public GameObject MainPlayerObj;
+    public GameObject IdleVid;
+    public GameObject IdlePlayerObj;
+    public VideoPlayer IdlePlayer;
 
     public int numSec;
 
@@ -23,9 +26,9 @@ public class VideoController : MonoBehaviour
         }
         
         StartVid.SetActive(true);
-        videoPlayer.audioOutputMode = VideoAudioOutputMode.AudioSource;
-        videoPlayer.EnableAudioTrack(0, true);
-        videoPlayer.Prepare();
+        MainPlayer.audioOutputMode = VideoAudioOutputMode.AudioSource;
+        MainPlayer.EnableAudioTrack(0, true);
+        MainPlayer.Prepare();
         StartCoroutine(WaitForVideoEnd());
     }
 
@@ -38,7 +41,12 @@ public class VideoController : MonoBehaviour
     {
         yield return new WaitForSecondsRealtime(numSec);
         StartVid.SetActive(false);
-        image.SetActive(true);
+        MainPlayerObj.SetActive(false);
+        IdleVid.SetActive(true);
+        IdlePlayerObj.SetActive(true);
+        IdlePlayer.audioOutputMode = VideoAudioOutputMode.AudioSource;
+        IdlePlayer.EnableAudioTrack(0, true);
+        IdlePlayer.Prepare();
 
         for(int i = 0; i < Btn.Length; i++)
         {
