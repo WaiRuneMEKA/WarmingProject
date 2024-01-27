@@ -1071,7 +1071,7 @@ PrefabInstance:
       objectReference: {fileID: 563658721}
     - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: TestVid2
+      value: brokeup 1
       objectReference: {fileID: 0}
     - target: {fileID: 3743889469889517717, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_Pivot.x
