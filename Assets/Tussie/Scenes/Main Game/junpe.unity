@@ -213,7 +213,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
       propertyPath: numSec
-      value: 8
+      value: 8.5
       objectReference: {fileID: 0}
     - target: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
       propertyPath: IdleVid
@@ -807,7 +807,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: why he stand beside your girl!!!
+  m_text: why you stand beside my girl!!!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 99c5a61b14cc20a4d8c9f8aa13bd4452, type: 2}
   m_sharedMaterial: {fileID: -1417841886454318802, guid: 99c5a61b14cc20a4d8c9f8aa13bd4452, type: 2}
@@ -1156,31 +1156,47 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 563658721}
+      objectReference: {fileID: 1095939819}
     - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
-      objectReference: {fileID: 1095939819}
+      objectReference: {fileID: 563658721}
     - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: Play
       objectReference: {fileID: 0}
     - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: BtnChangeScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
       value: UnityEngine.AudioSource, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: VideoController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_StringArgument
       value: junpe polite
       objectReference: {fileID: 0}
     - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}

@@ -15,7 +15,7 @@ public class VideoController : MonoBehaviour
     public GameObject IdlePlayerObj;
     public VideoPlayer IdlePlayer;
 
-    public int numSec;
+    public float numSec;
 
     // Start is called before the first frame update
     void Start()
