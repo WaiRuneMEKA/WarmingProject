@@ -19,6 +19,7 @@ public class ClickComboTest : MonoBehaviour
 
     void Start()
     {
+        finishText.text = string.Empty;
         StartCoroutine(DecreaseNum(EnumNum));
     }
 

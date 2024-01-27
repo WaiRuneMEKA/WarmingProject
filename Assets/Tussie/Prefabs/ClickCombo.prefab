@@ -434,9 +434,9 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 1483179523941641242}
   - {fileID: 4007662580810044086}
   - {fileID: 2946717479222149265}
-  - {fileID: 1483179523941641242}
   - {fileID: 4069352385770854056}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -452,7 +452,7 @@ GameObject:
   - component: {fileID: 5942298034556056534}
   - component: {fileID: 1541299028107225478}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: FinishedText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -505,7 +505,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 99c5a61b14cc20a4d8c9f8aa13bd4452, type: 2}
   m_sharedMaterial: {fileID: -1417841886454318802, guid: 99c5a61b14cc20a4d8c9f8aa13bd4452, type: 2}
@@ -657,13 +657,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slider: {fileID: 7606357161673289936}
-  sliderObj: {fileID: 0}
+  sliderObj: {fileID: 1969500400743106270}
   Btn: {fileID: 484078101893151540}
   comboNum: 0
   SceneName: 
   finishDescription: 
   EnumNum: 0.2
-  finishText: {fileID: 0}
+  finishText: {fileID: 1541299028107225478}
 --- !u!114 &610538406792882422
 MonoBehaviour:
   m_ObjectHideFlags: 0

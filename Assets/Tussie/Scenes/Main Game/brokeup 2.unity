@@ -740,6 +740,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2849663585525169887, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
+      propertyPath: SceneName
+      value: junpe
+      objectReference: {fileID: 0}
+    - target: {fileID: 2849663585525169887, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
+      propertyPath: finishText
+      value: 
+      objectReference: {fileID: 1974883592}
+    - target: {fileID: 2849663585525169887, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
+      propertyPath: finishDescription
+      value: You have come back from DEAD.
+      objectReference: {fileID: 0}
     - target: {fileID: 4283738800078863200, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
       propertyPath: m_AnchorMax.y
       value: 1
@@ -767,6 +779,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2807175278074711185, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
   m_PrefabInstance: {fileID: 1344925584}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1974883592 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1541299028107225478, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
+  m_PrefabInstance: {fileID: 1344925584}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2081116174
 GameObject:
   m_ObjectHideFlags: 0
