@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 12
   m_EditorClassIdentifier: 
   MainText: 'Lotto : Thank you very much'
-  Maintext_Sec: 0
+  Maintext_Sec: 2
   Maintext_Color: {r: 1, g: 1, b: 1, a: 1}
   Subtext: 
-  Subtext_Sec: 0
+  Subtext_Sec: 2
   Subtext_Color: {r: 1, g: 1, b: 1, a: 1}
