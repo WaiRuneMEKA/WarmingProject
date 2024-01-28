@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 4
   m_EditorClassIdentifier: 
   MainText: 'Lotto : I''m going to apologize for yelling at you when I woke up'
-  Maintext_Sec: 0
+  Maintext_Sec: 4
   Maintext_Color: {r: 1, g: 1, b: 1, a: 1}
   Subtext: 
-  Subtext_Sec: 0
+  Subtext_Sec: 4
   Subtext_Color: {r: 1, g: 1, b: 1, a: 1}

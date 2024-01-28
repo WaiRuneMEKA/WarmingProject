@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MainText: 'Lotto : Hey man, you''re the one who helped me when I finished swimming,
     right?'
-  Maintext_Sec: 0
+  Maintext_Sec: 5
   Maintext_Color: {r: 1, g: 1, b: 1, a: 1}
   Subtext: 
-  Subtext_Sec: 0
+  Subtext_Sec: 5
   Subtext_Color: {r: 1, g: 1, b: 1, a: 1}

@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: nul text
   m_EditorClassIdentifier: 
   MainText: 
-  Maintext_Sec: 0
+  Maintext_Sec: 0.35
   Maintext_Color: {r: 0.1254902, g: 0.1254902, b: 0.1254902, a: 1}
   Subtext: 
-  Subtext_Sec: 0
+  Subtext_Sec: 0.35
   Subtext_Color: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 1}
