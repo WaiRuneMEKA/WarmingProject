@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60a66d8d1f0268643bac21619ddbfd19, type: 3}
   m_Name: 3
   m_EditorClassIdentifier: 
-  MainText: Lotto :Ha! found it now it searching time.
-  Maintext_Sec: 0
+  MainText: 'Lotto : It''s time to find out about him.'
+  Maintext_Sec: 2
   Maintext_Color: {r: 1, g: 1, b: 1, a: 1}
   Subtext: 
-  Subtext_Sec: 0
+  Subtext_Sec: 2
   Subtext_Color: {r: 1, g: 1, b: 1, a: 1}
