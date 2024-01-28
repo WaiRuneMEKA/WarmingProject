@@ -797,9 +797,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 808787845535971221, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_text
-      value: 'Menu
-
-'
+      value: Next
       objectReference: {fileID: 0}
     - target: {fileID: 1822912555186359923, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_Name
@@ -823,7 +821,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2787746919412426380, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Lobby
+      value: EndPrologue
       objectReference: {fileID: 0}
     - target: {fileID: 3743889469889517717, guid: 36f5f470bee52984298c4c0c11ee98fa, type: 3}
       propertyPath: m_Pivot.x
