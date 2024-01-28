@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 5
   m_EditorClassIdentifier: 
   MainText: 'Lotto : Is this right here?'
-  Maintext_Sec: 0
+  Maintext_Sec: 2
   Maintext_Color: {r: 1, g: 1, b: 1, a: 1}
-  Subtext: 
-  Subtext_Sec: 0
-  Subtext_Color: {r: 1, g: 1, b: 1, a: 1}
+  Subtext: 'Junpe : Yes yes Yee'
+  Subtext_Sec: 2
+  Subtext_Color: {r: 0.6666667, g: 0.21960784, b: 0.8862745, a: 1}
