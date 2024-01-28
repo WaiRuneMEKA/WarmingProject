@@ -1962,7 +1962,7 @@ GameObject:
   - component: {fileID: 6339962826203925755}
   - component: {fileID: 8901367002414457717}
   m_Layer: 5
-  m_Name: SUBTITTE 1
+  m_Name: SUBTITTE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
