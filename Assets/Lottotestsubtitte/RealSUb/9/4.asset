@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 4
   m_EditorClassIdentifier: 
   MainText: 'Junpe : I think you''re crazy!! Is that really your girlfriend?'
-  Maintext_Sec: 0
+  Maintext_Sec: 4
   Maintext_Color: {r: 0.6679682, g: 0.22086148, b: 0.8867924, a: 1}
   Subtext: 
-  Subtext_Sec: 0
+  Subtext_Sec: 4
   Subtext_Color: {r: 1, g: 1, b: 1, a: 1}
