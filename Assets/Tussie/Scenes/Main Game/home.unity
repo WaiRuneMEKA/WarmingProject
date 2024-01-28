@@ -213,7 +213,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
       propertyPath: numSec
-      value: 75.5
+      value: 76
       objectReference: {fileID: 0}
     - target: {fileID: 4070905746292383083, guid: b558568bf43ea31438e9bd9d49dfab36, type: 3}
       propertyPath: IdleVid
@@ -1755,11 +1755,11 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 56708974c03f4534fb0132e5e1869ae1, type: 2}
   - {fileID: 11400000, guid: 606176391c947fd439c690260747346a, type: 2}
   - {fileID: 11400000, guid: 839739c30e0d80c4a8dd28aede7b5079, type: 2}
-  - {fileID: 11400000, guid: c31198d9d72305f409ab26e040e1b4aa, type: 2}
-  - {fileID: 11400000, guid: 9c220411ec0b78847ad36a43ba71bebe, type: 2}
   - {fileID: 11400000, guid: ce8a9b313bf1b9540babd246015a0f8e, type: 2}
-  - {fileID: 11400000, guid: 77341fe2335e485498a70a2fb48e163c, type: 2}
+  - {fileID: 11400000, guid: 9c220411ec0b78847ad36a43ba71bebe, type: 2}
   - {fileID: 11400000, guid: 093331a1c665f5d4aa734940e8d12ce8, type: 2}
+  - {fileID: 11400000, guid: 77341fe2335e485498a70a2fb48e163c, type: 2}
+  - {fileID: 11400000, guid: 0ca7ae8f3385778489c42b9928b0893d, type: 2}
   - {fileID: 11400000, guid: 839739c30e0d80c4a8dd28aede7b5079, type: 2}
   - {fileID: 11400000, guid: 877e423c879712e49b7c1689d1a1bd18, type: 2}
   - {fileID: 11400000, guid: 2887bd6ad1bb1a649a4da7966ee2edb3, type: 2}
