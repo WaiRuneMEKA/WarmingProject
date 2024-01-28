@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 9
   m_EditorClassIdentifier: 
   MainText: 'Junpe : Then I''ll rob you later'
-  Maintext_Sec: 0
+  Maintext_Sec: 2
   Maintext_Color: {r: 0.6666667, g: 0.21960784, b: 0.8862745, a: 1}
   Subtext: 'lotto : Zzzzzzz Zzzzzz'
-  Subtext_Sec: 0
+  Subtext_Sec: 2
   Subtext_Color: {r: 1, g: 1, b: 1, a: 1}

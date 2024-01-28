@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 4
   m_EditorClassIdentifier: 
   MainText: 'Lotto :  What his name?, I think his name is Junpe.'
-  Maintext_Sec: 0
+  Maintext_Sec: 3
   Maintext_Color: {r: 1, g: 1, b: 1, a: 1}
   Subtext: 
-  Subtext_Sec: 0
+  Subtext_Sec: 3
   Subtext_Color: {r: 1, g: 1, b: 1, a: 1}

@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 3
   m_EditorClassIdentifier: 
   MainText: 'Lotto :  He look like the person next to my girlfirend.'
-  Maintext_Sec: 0
+  Maintext_Sec: 4
   Maintext_Color: {r: 1, g: 1, b: 1, a: 1}
   Subtext: 
-  Subtext_Sec: 0
+  Subtext_Sec: 4
   Subtext_Color: {r: 1, g: 1, b: 1, a: 1}
