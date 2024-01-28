@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 3
   m_EditorClassIdentifier: 
   MainText: 'Girlfriend : you still don''t understand me.'
-  Maintext_Sec: 0
+  Maintext_Sec: 5
   Maintext_Color: {r: 0.9607843, g: 0.2784314, b: 1, a: 1}
   Subtext: 
-  Subtext_Sec: 0
+  Subtext_Sec: 5
   Subtext_Color: {r: 1, g: 1, b: 1, a: 1}
