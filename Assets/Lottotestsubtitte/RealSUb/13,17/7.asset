@@ -12,10 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60a66d8d1f0268643bac21619ddbfd19, type: 3}
   m_Name: 7
   m_EditorClassIdentifier: 
-  MainText: 'Lotto : Uh... wait a minute, the woman in this picture looks a lot like
-    my girlfriend. '
-  Maintext_Sec: 0
+  MainText: 'Lotto : It definitely him.'
+  Maintext_Sec: 3
   Maintext_Color: {r: 1, g: 1, b: 1, a: 1}
   Subtext: 
-  Subtext_Sec: 0
+  Subtext_Sec: 3
   Subtext_Color: {r: 1, g: 1, b: 1, a: 1}
