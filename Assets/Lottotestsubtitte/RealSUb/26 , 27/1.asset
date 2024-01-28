@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60a66d8d1f0268643bac21619ddbfd19, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  MainText: 'Lotto : It''s a secret akukikuku'
+  Maintext_Sec: 0
+  Maintext_Color: {r: 1, g: 1, b: 1, a: 1}
+  Subtext: 
+  Subtext_Sec: 0
+  Subtext_Color: {r: 1, g: 1, b: 1, a: 1}
