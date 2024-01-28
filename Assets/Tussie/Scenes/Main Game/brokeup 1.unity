@@ -220,12 +220,16 @@ PrefabInstance:
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 2807175278074711185, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.0875
+      objectReference: {fileID: 0}
+    - target: {fileID: 2807175278074711185, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
       propertyPath: m_LocalPosition.x
       value: -949
       objectReference: {fileID: 0}
     - target: {fileID: 2807175278074711185, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -482
+      value: -522.36
       objectReference: {fileID: 0}
     - target: {fileID: 2807175278074711185, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -267,10 +271,34 @@ PrefabInstance:
       propertyPath: finishDescription
       value: You have come back from DEAD.
       objectReference: {fileID: 0}
+    - target: {fileID: 4007662580810044086, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4155
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007662580810044086, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4155
+      objectReference: {fileID: 0}
+    - target: {fileID: 4007662580810044086, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4155
+      objectReference: {fileID: 0}
     - target: {fileID: 4283738800078863200, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
       propertyPath: m_AnchorMax.y
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5094338264824302814, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
+      propertyPath: m_text
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6805601454399907949, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6805601454399907949, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ff7a6c85b666a5f47bb06fc31736619d, type: 3}
     - target: {fileID: 6833791458492246735, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
       propertyPath: m_Name
       value: ClickCombo
