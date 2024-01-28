@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 2
   m_EditorClassIdentifier: 
   MainText: 'Lotto : Whose mobile phone is this?'
-  Maintext_Sec: 0
+  Maintext_Sec: 6
   Maintext_Color: {r: 1, g: 1, b: 1, a: 1}
   Subtext: 
-  Subtext_Sec: 0
+  Subtext_Sec: 6
   Subtext_Color: {r: 1, g: 1, b: 1, a: 1}

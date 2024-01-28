@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 1
   m_EditorClassIdentifier: 
   MainText: 'Lotto : I''m so bored.'
-  Maintext_Sec: 1.85
+  Maintext_Sec: 2
   Maintext_Color: {r: 1, g: 1, b: 1, a: 1}
   Subtext: 
-  Subtext_Sec: 1.85
+  Subtext_Sec: 2
   Subtext_Color: {r: 1, g: 1, b: 1, a: 1}
