@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 60a66d8d1f0268643bac21619ddbfd19, type: 3}
-  m_Name: 1
+  m_Name: 5 1
   m_EditorClassIdentifier: 
-  MainText: '??? : Hey, are you awake?'
-  Maintext_Sec: 2
-  Maintext_Color: {r: 0.6679682, g: 0.22086148, b: 0.8867924, a: 1}
+  MainText: "\u0E3ABLOCK"
+  Maintext_Sec: 0
+  Maintext_Color: {r: 0.7075472, g: 0.7075472, b: 0.7075472, a: 1}
   Subtext: 
-  Subtext_Sec: 2
+  Subtext_Sec: 0
   Subtext_Color: {r: 1, g: 1, b: 1, a: 1}
