@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 60a66d8d1f0268643bac21619ddbfd19, type: 3}
-  m_Name: 5
+  m_Name: nul text 3
   m_EditorClassIdentifier: 
-  MainText: "\u0E3ABLOCK"
-  Maintext_Sec: 3
-  Maintext_Color: {r: 0.7075472, g: 0.7075472, b: 0.7075472, a: 1}
+  MainText: 
+  Maintext_Sec: 3.39
+  Maintext_Color: {r: 0.1254902, g: 0.1254902, b: 0.1254902, a: 1}
   Subtext: 
-  Subtext_Sec: 3
-  Subtext_Color: {r: 1, g: 1, b: 1, a: 1}
+  Subtext_Sec: 3.39
+  Subtext_Color: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 1}
