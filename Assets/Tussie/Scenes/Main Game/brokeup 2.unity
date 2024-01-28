@@ -180,11 +180,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6f73d07123e40f548ba79183bc12a274, type: 3}
---- !u!82 &43096905 stripped
-AudioSource:
-  m_CorrespondingSourceObject: {fileID: 7188856283077589654, guid: 6f73d07123e40f548ba79183bc12a274, type: 3}
-  m_PrefabInstance: {fileID: 43096904}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &90224053
 GameObject:
   m_ObjectHideFlags: 0
@@ -257,6 +252,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 90224053}
   m_CullTransparentMesh: 1
+--- !u!82 &302755394 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 4639012039099991110, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
+  m_PrefabInstance: {fileID: 1344925584}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &384765667
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -757,7 +757,7 @@ PrefabInstance:
     - target: {fileID: 89774502626218915, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Target
       value: 
-      objectReference: {fileID: 43096905}
+      objectReference: {fileID: 302755394}
     - target: {fileID: 89774502626218915, guid: 9d9b2e9e1d9020a46b23ff563015e49f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
       value: 2
